@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/smartworldteam/art/main/logo.svg" height="150"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/egal/.art/main/logo.svg" height="150"></p>
 <h1 align="center">Egal | Postgres</h1>
 <p align="center">
 <p align="center">
